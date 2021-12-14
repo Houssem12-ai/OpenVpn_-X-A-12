@@ -54,7 +54,7 @@ when you check OpenVpn Rule you clients connection to pass through the tunnel
 ```
 
 
-## creating the user ceritificate
+## creating the user ceritificate and final touch
 
 ```
 - creating the user certificate 
